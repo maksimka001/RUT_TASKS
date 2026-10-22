@@ -53,9 +53,9 @@ int CheckInput(const double r1, const double r2, const double r3)
 {
     if (r1 <= 0 || r2 <= 0 || r3 <= 0)
     {
-        return 0
+        return 0;
     }
-    return 1
+    return 1;
 }
 double GetTotalResistance(const double r1, const double r2, const double r3)
 {
