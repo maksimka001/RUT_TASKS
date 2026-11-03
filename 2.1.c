@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 #include <stdlib.h>
+#define _USE_MATH_DEFINES // for C
 
 /**
  * @brief Вычисляет объём шара с заданным радиусом
