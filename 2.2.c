@@ -3,6 +3,10 @@
 #include <math.h>
 #include <stdlib.h>
 
+/**
+ * @brief Считывает с клавиатуры значение с плавающей точкой
+ * @return Считанное значение
+ */
 double getDouble();
 
 /**
